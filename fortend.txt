@@ -1,0 +1,39 @@
+a request is sent from the host to server using http.from this request the images and video comes in differnt http request and text have differnt request.
+this request go to rendring browser and it displays the content in proper way to browser 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+What all happens when you enter google.com in your browser, right from the time when you press enter to the moment the page is rendered in your browser...what hall happens in the background
+Barun Debnath4:11 PM
+where to send teh answer??
+RD Talks4:12 PM
+here only
+Barun Debnath4:12 PM
+right now?? or later
+You4:12 PM
+a request is sent from the host to server using http.from this request the images and video comes in differnt http request and text have differnt request.
+this request go to rendring browser and it displays the content in proper way to browser 
+Krishna Dawalkar4:12 PM
+as we type web address name in the browser and press enter web browser will send the name  to the ISP and from their the based on our request the server will provide service and will send the html doc of the Google to our web browser and it will start appearing on our web browser
+016_cse_ Harshikha Pal4:12 PM
+there is a  request sent to the server with http protocol and as every website has a unique ip address this request is met by the server and in the response server sends that unique ip address of website  to the frontend.
+Yashashri Sonawane4:12 PM
+firstly web client establishes connection with server using TCP/IP protocol that means client sends request as HTTP msg .On the other side Server process the request & sends response back to the client in HTTP form.
+Sushmita4:12 PM
+First of all the request to access the url i.e google.com is sent to the server and it returns a response in which is rendered in our broswer using html, css and js. In between there are many other processes too loke dns check, Middleware etc.
+Barun Debnath4:12 PM
+
+
+As one enters google.com, the web browsers send the requests to the server. First the servers goes to DNS to fetch the google.com IP and then it sends it to browser and then the browser goes to the respective IP server, where the server response the request and send the required html/css/js files to the client/ browser
+Prince Kumar4:13 PM
+it automatically add up the HTTP protocol in the beginning of the URL.
+Devansh Mathan4:13 PM
+browser checks DNS(it's like a database which maintains name and ip address). 
+Then the browser sends an HTTP request
+Then the server responds.
+Himanshu Singh4:13 PM
+The browser sents the request to sever though proxies in between . Then the browser use it's high lvl architecture which consists of networking, rendering engine, ui backend engine to display the web page.
+
+
+
+
+audio video tag
+micro data
